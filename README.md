@@ -1,9 +1,6 @@
 # Serial_Number_Finder_Practice
 Practice and testing
 
-"""
-Great, you managed to open me up!
-
 Along with this note, 1 folder has been unzipped, and it's full of subfolders and .txt files.
 
 Don't worry about going through them, they're just random text... except for a few of them. ¯\_(ツ)_/¯
@@ -46,7 +43,3 @@ IMPORTANT
 * To report the duration of the search at the end of your presentation, you will need the time module.
 
 * Remember that in order to print everything in table format you can use the special characters to tabulate.
-
-
-
-"""
